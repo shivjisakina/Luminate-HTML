@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f2f9be3-fdc6-459e-b4a1-e781028ed8b8" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Claim-Circle.html" afterPath="$PROJECT_DIR$/pages/Claim-Circle.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap.css" afterPath="$PROJECT_DIR$/assets/styles/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/default.css" afterPath="$PROJECT_DIR$/assets/styles/default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/office-lobby-light.jpg" afterPath="$PROJECT_DIR$/assets/images/office-lobby-light.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib.js" afterPath="$PROJECT_DIR$/assets/scripts/lib.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main.css" afterPath="$PROJECT_DIR$/assets/styles/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/assets/scripts/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/perficient.css" afterPath="$PROJECT_DIR$/assets/styles/perficient.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/preview.css" afterPath="$PROJECT_DIR$/assets/styles/preview.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +28,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="perficient.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/perficient.css">
+        <entry file="file://$PROJECT_DIR$/assets/styles/perficient.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="3114" lean-forward="false" selection-start-line="0" selection-start-column="3114" selection-end-line="0" selection-end-column="3114" />
@@ -32,8 +42,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="105" column="1" lean-forward="false" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+            <state relative-caret-position="294">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -48,7 +58,7 @@
         </entry>
       </file>
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap.css">
+        <entry file="file://$PROJECT_DIR$/assets/styles/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="137261" lean-forward="false" selection-start-line="0" selection-start-column="137261" selection-end-line="0" selection-end-column="137261" />
@@ -58,7 +68,7 @@
         </entry>
       </file>
       <file leaf-file-name="preview.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preview.css">
+        <entry file="file://$PROJECT_DIR$/assets/styles/preview.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="1660" lean-forward="false" selection-start-line="0" selection-start-column="1660" selection-end-line="0" selection-end-column="1660" />
@@ -68,7 +78,7 @@
         </entry>
       </file>
       <file leaf-file-name="lib.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib.js">
+        <entry file="file://$PROJECT_DIR$/assets/scripts/lib.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
@@ -80,7 +90,7 @@
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.js">
+        <entry file="file://$PROJECT_DIR$/assets/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17829">
               <caret line="849" column="5" lean-forward="false" selection-start-line="849" selection-start-column="5" selection-end-line="849" selection-end-column="5" />
@@ -90,7 +100,7 @@
         </entry>
       </file>
       <file leaf-file-name="default.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/default.css">
+        <entry file="file://$PROJECT_DIR$/assets/styles/default.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="4" column="104436" lean-forward="true" selection-start-line="4" selection-start-column="104436" selection-end-line="4" selection-end-column="104436" />
@@ -102,7 +112,7 @@
         </entry>
       </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.css">
+        <entry file="file://$PROJECT_DIR$/assets/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
               <caret line="4" column="93061" lean-forward="true" selection-start-line="4" selection-start-column="93061" selection-end-line="4" selection-end-column="93061" />
@@ -112,7 +122,7 @@
         </entry>
       </file>
       <file leaf-file-name="Claim-Circle.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Claim-Circle.html">
+        <entry file="file://$PROJECT_DIR$/pages/Claim-Circle.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-8120">
               <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
@@ -213,7 +223,7 @@
             <path>
               <item name="Luminate-HTML" type="b2602c69:ProjectViewProjectNode" />
               <item name="Luminate-HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,6 +246,12 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Luminate-HTML\pages" />
+      <recent name="C:\Luminate-HTML\assets\scripts" />
+      <recent name="C:\Luminate-HTML\assets\styles" />
+      <recent name="C:\Luminate-HTML\assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Luminate-HTML" />
     </key>
@@ -355,12 +371,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543333680235</updated>
       <workItem from="1543333683740" duration="878000" />
-      <workItem from="1543950157936" duration="2604000" />
+      <workItem from="1543950157936" duration="2794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3482000" />
+    <option name="totallyTimeSpent" value="3672000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,7 +430,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/perficient.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/perficient.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3114" lean-forward="false" selection-start-line="0" selection-start-column="3114" selection-end-line="0" selection-end-column="3114" />
@@ -424,7 +440,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib.js">
+    <entry file="file://$PROJECT_DIR$/assets/scripts/lib.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
@@ -434,7 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/assets/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17829">
           <caret line="849" column="5" lean-forward="false" selection-start-line="849" selection-start-column="5" selection-end-line="849" selection-end-column="5" />
@@ -442,7 +458,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/default.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
@@ -452,7 +468,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
@@ -476,7 +492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/perficient.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/perficient.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3114" lean-forward="false" selection-start-line="0" selection-start-column="3114" selection-end-line="0" selection-end-column="3114" />
@@ -487,7 +503,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exportToHTML/index.html.html" />
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/assets/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17829">
           <caret line="849" column="5" lean-forward="false" selection-start-line="849" selection-start-column="5" selection-end-line="849" selection-end-column="5" />
@@ -495,7 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib.js">
+    <entry file="file://$PROJECT_DIR$/assets/scripts/lib.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
@@ -505,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preview.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/preview.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1660" lean-forward="false" selection-start-line="0" selection-start-column="1660" selection-end-line="0" selection-end-column="1660" />
@@ -513,7 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="137261" lean-forward="false" selection-start-line="0" selection-start-column="137261" selection-end-line="0" selection-end-column="137261" />
@@ -521,7 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/default.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="4" column="104436" lean-forward="true" selection-start-line="4" selection-start-column="104436" selection-end-line="4" selection-end-column="104436" />
@@ -531,7 +547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.css">
+    <entry file="file://$PROJECT_DIR$/assets/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="93061" lean-forward="true" selection-start-line="4" selection-start-column="93061" selection-end-line="4" selection-end-column="93061" />
@@ -539,7 +555,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Claim-Circle.html">
+    <entry file="file://$PROJECT_DIR$/pages/Claim-Circle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8120">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
@@ -549,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="105" column="1" lean-forward="false" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+        <state relative-caret-position="294">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />

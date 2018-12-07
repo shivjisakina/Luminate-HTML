@@ -81,7 +81,7 @@
                 .end()
                 .toggleClass('js-active')
                 .slideToggle(300);
-        }
+        };
 
         var init = function() {
 
@@ -106,7 +106,7 @@
                 var $target = $(this).parent('[data-toggler-title]').next('[data-toggler-content]');
                 doClickThing($target);
             });
-        }
+        };
 
         return {
             init: init
@@ -137,27 +137,27 @@
             isShowing = true;
             $('html, main').addClass('menu-open');
             $('.navbar-collapse').not(this).collapse('hide');
-        }
+        };
 
         // This event is fired when a collapse element has been made visible
         // to the user (will wait for CSS transitions to complete).
         var onNavbarShown = function(){
             isShowing = false;
             // $('html, main').addClass('menu-open');
-        }
+        };
 
         // This event is fired immediately when the hide method has been called.
         var onNavbarHide = function(){
             if (!isShowing) {
                 $('html, main').removeClass('menu-open');
             }
-        }
+        };
 
         var init = function() {
             $('.navbar-collapse').on('show.bs.collapse', onNavbarShow);
             $('.navbar-collapse').on('shown.bs.collapse', onNavbarShown);
             $('.navbar-collapse').on('hide.bs.collapse', onNavbarHide);
-        }
+        };
 
         return {
             init: init
@@ -187,7 +187,7 @@
 // Example of custom validator
 // usage: <input type="text" data-equals="foo">
     $.fn.validator.Constructor.DEFAULTS.custom.equals = function($el) {
-        var matchValue = $el.data("equals") // foo
+        var matchValue = $el.data("equals"); // foo
         if ($el.val() !== matchValue) {
             return "Hey, that's not valid! It's gotta be " + matchValue
         }
@@ -286,23 +286,23 @@
 
         var Spinner = function (element, options) {
             var $this = this;
-            this.$element = $(element)
-            this.options  = $.extend({}, Spinner.DEFAULTS, this.$element.data(), options)
+            this.$element = $(element);
+            this.options  = $.extend({}, Spinner.DEFAULTS, this.$element.data(), options);
 
             // Check for insane values
-            var value = new Number(this.$element.val())
-            if (isNaN(value)) this.$element.val(this.options.min)
+            var value = Number(this.$element.val());
+            if (isNaN(value)) this.$element.val(this.options.min);
 
             // Strict check entered value
             if (this.options.strict == true) {
                 this.$element.on('keypress', function (e) {
-                    var prevent = false
+                    var prevent = false;
 
                     if (e.which == 45 || e.keyCode == 40) {
-                        $this.decrease()
+                        $this.decrease();
                         return false
                     } else if (e.which == 43 || e.keyCode == 38) {
-                        $this.increase()
+                        $this.increase();
                         return false
                     }
 
@@ -325,7 +325,7 @@
                     $this.change($this.$element.val())
                 })
             }
-        }
+        };
 
         Spinner.DEFAULTS = {
             step: 1,
@@ -333,29 +333,29 @@
             max: Infinity,
             precision: 0,
             strict: true
-        }
+        };
 
         Spinner.prototype.increase = function() {
             this.step(this.options.step)
-        }
+        };
 
         Spinner.prototype.decrease = function() {
             this.step(-this.options.step)
-        }
+        };
 
         Spinner.prototype.step = function (value) {
-            if (typeof value !== 'number') value = new Number(value)
-            if (isNaN(value)) return
+            if (typeof value !== 'number') value = Number(value);
+            if (isNaN(value)) return;
 
-            var current = new Number(this.$element.val())
-            if (isNaN(current)) current = this.options.min
+            var current = Number(this.$element.val());
+            if (isNaN(current)) current = this.options.min;
 
             this.change(current + value)
-        }
+        };
 
         Spinner.prototype.change = function(value) {
-            if (typeof value !== 'number') value = new Number(value)
-            if (isNaN(value)) value = this.options.min
+            if (typeof value !== 'number') value = Number(value);
+            if (isNaN(value)) value = this.options.min;
 
             if (value <= this.options.min) {
                 value = this.options.min;
@@ -371,65 +371,65 @@
                 this.$element.next('.btn').prop('disabled', false);
             }
 
-            var e = $.Event('change.bs.spinner', { value: value })
-            this.$element.trigger(e)
+            var e = $.Event('change.bs.spinner', { value: value });
+            this.$element.trigger(e);
 
-            e = $.Event('changed.bs.spinner')
+            e = $.Event('changed.bs.spinner');
 
             this.$element.val(value.toFixed(this.options.precision)).change().trigger(e)
-        }
+        };
 
         Spinner.prototype.setOptions = function(options) {
             if (typeof options == 'object') this.options = $.extend({}, this.options, options)
-        }
+        };
 
         // SPINNER PLUGIN DEFINITION
         // =========================
 
-        var old = $.fn.spinner
+        var old = $.fn.spinner;
 
         $.fn.spinner = function (option, arg) {
             return this.each(function () {
-                var $this   = $(this)
-                var data    = $this.data('bs.spinner')
-                var isNew   = (typeof data == 'object')
-                var options = typeof option == 'object' && option
+                var $this   = $(this);
+                var data    = $this.data('bs.spinner');
+                var isNew   = (typeof data == 'object');
+                var options = typeof option == 'object' && option;
 
-                if (!data) $this.data('bs.spinner', (data = new Spinner(this, options)))
+                if (!data) $this.data('bs.spinner', (data = new Spinner(this, options)));
 
-                if (typeof option == 'object' && isNew == false) data.setOptions(option)
-                else if (typeof option == 'number') data.step(option)
+                if (typeof option == 'object' && isNew == false) data.setOptions(option);
+                else if (typeof option == 'number') data.step(option);
                 else if (typeof option == 'string') data[option](arg)
             })
-        }
+        };
 
-        $.fn.spinner.Constructor = Spinner
+        $.fn.spinner.Constructor = Spinner;
 
         // SPINNER NO CONFLICT
         // ===================
 
         var trigger = function (event) {
-            var $this   = $(this)
-            var href    = $this.attr('href')
-            var $target = $($this.attr('data-target') || (href && href.replace(/.*(?=#[^\s]+$)/, ''))) //strip for ie7
-            var value   = $this.data('value')
+            var $this   = $(this);
+            var href    = $this.attr('href');
+            var $target = $($this.attr('data-target') || (href && href.replace(/.*(?=#[^\s]+$)/, ''))); //strip for ie7
+            var value   = $this.data('value');
 
-            if ($this.is('a')) event.preventDefault()
+            if ($this.is('a')) event.preventDefault();
 
             $target.spinner(value)
-        }
+        };
 
         $.fn.spinner.noConflict = function () {
-            $.fn.spinner = old
+            $.fn.spinner = old;
             return this
-        }
+        };
 
         // SPINNER DATA-API
         // ================
 
         $(document)
             .on('click.bs.spinner.data-api', '[data-toggle="spinner"][data-on!="mousehold"]', trigger)
-            .on('mousehold.bs.spinner.data-api', '[data-toggle="spinner"]', trigger)
+            .on('mousehold.bs.spinner.data-api', '[data-toggle="spinner"]', trigger);
 
         $(window).on('load', function () {
             $('[data-ride="spinner"]').each(function () {
@@ -489,7 +489,7 @@
                     obj1[name] = obj2[name];
             }
             return obj1;
-        }
+        };
 
         function NormalizeWhitespace(defaults) {
             this.defaults = assign({}, defaults);
@@ -700,7 +700,7 @@
                 });
             });
 
-        }
+        };
 
         return {
             init: init
@@ -728,14 +728,14 @@
 
             var currentTallest = 0,
                 currentRowStart = 0,
-                rowDivs = new Array(),
+                rowDivs = [],
                 $el,
                 topPosition = 0;
 
             $(container).each(function() {
 
                 $el = $(this);
-                $($el).height('auto')
+                $($el).height('auto');
                 topPostion = $el.position().top;
 
                 if (currentRowStart != topPostion) {
@@ -755,7 +755,7 @@
                     rowDivs[currentDiv].height(currentTallest);
                 }
             });
-        }
+        };
 
         return {
             equalHeight: equalHeight
@@ -791,7 +791,7 @@
             });
 
             $(el).data('total-items-width', Math.ceil(totalItemsWidth) + 2);
-        }
+        };
 
         var checkTabs = function(el) {
             var containerWidth = $(el).width();
@@ -801,7 +801,7 @@
             } else if ($(el).data('total-items-width') >= containerWidth && $(el).hasClass('nav-tabs--justified')) {
                 $(el).removeClass('nav-tabs--justified');
             }
-        }
+        };
 
         var init = function() {
             var $tabs = $('.nav-tabs');
@@ -818,7 +818,7 @@
             });
 
             $tabs.on('shown.bs.tab', function (e) { $(e.target).blur() });
-        }
+        };
 
         return {
             init: init

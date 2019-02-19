@@ -2,26 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f2f9be3-fdc6-459e-b4a1-e781028ed8b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/Big-Image-Left.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/Three-Col-News.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/Tile-50-50-Portrait.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/hero.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/search.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Carousel-1.html" afterPath="$PROJECT_DIR$/components/Carousel-1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Carousel-2.html" afterPath="$PROJECT_DIR$/components/Carousel-2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Claim-Circle.html" afterPath="$PROJECT_DIR$/components/Claim-Circle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Three-Col-News.html" afterPath="$PROJECT_DIR$/components/Big-Image-Right.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Three-Col-Teaser.html" afterPath="$PROJECT_DIR$/components/Three-Col-Teaser.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Tile-50-50-Landscape.html" afterPath="$PROJECT_DIR$/components/Tile-50-50-Landscape.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Tile-Center-Focused.html" afterPath="$PROJECT_DIR$/components/Tile-Center-Focused.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Tile-Highlighted.html" afterPath="$PROJECT_DIR$/components/Tile-Highlighted.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Tile-Landscape.html" afterPath="$PROJECT_DIR$/components/Tile-Landscape.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Tile-Right-Focused.html" afterPath="$PROJECT_DIR$/components/Tile-Right-Focused.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/Two-Col-Teaser.html" afterPath="$PROJECT_DIR$/components/Two-Col-Teaser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Big-Image-Left.html" afterPath="$PROJECT_DIR$/components/Big-Image-Left.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Big-Image-Right.html" afterPath="$PROJECT_DIR$/components/Big-Image-Right.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Carousel-1.html" afterPath="$PROJECT_DIR$/components/Carousel-1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Carousel-2.html" afterPath="$PROJECT_DIR$/components/Carousel-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Three-Col-News.html" afterPath="$PROJECT_DIR$/components/Three-Col-News.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Three-Col-Teaser.html" afterPath="$PROJECT_DIR$/components/Three-Col-Teaser.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Tile-50-50-Landscape.html" afterPath="$PROJECT_DIR$/components/Tile-50-50-Landscape.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Tile-50-50-Portrait.html" afterPath="$PROJECT_DIR$/components/Tile-50-50-Portrait.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Tile-Center-Focused.html" afterPath="$PROJECT_DIR$/components/Tile-Center-Focused.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Tile-Highlighted.html" afterPath="$PROJECT_DIR$/components/Tile-Highlighted.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Tile-Landscape.html" afterPath="$PROJECT_DIR$/components/Tile-Landscape.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Tile-Right-Focused.html" afterPath="$PROJECT_DIR$/components/Tile-Right-Focused.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/navigation.html" afterPath="$PROJECT_DIR$/layout/navigation.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,10 +29,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Three-Col-News.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Three-Col-News.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="326" column="25" lean-forward="false" selection-start-line="326" selection-start-column="25" selection-end-line="326" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
+            <state relative-caret-position="2982">
               <caret line="226" column="43" lean-forward="false" selection-start-line="226" selection-start-column="43" selection-end-line="226" selection-end-column="43" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -67,84 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/search.html">
+      <file leaf-file-name="Carousel-2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Carousel-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="348" column="18" lean-forward="false" selection-start-line="348" selection-start-column="18" selection-end-line="348" selection-end-column="18" />
+            <state relative-caret-position="427">
+              <caret line="326" column="18" lean-forward="false" selection-start-line="326" selection-start-column="18" selection-end-line="326" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/footer.html">
+      <file leaf-file-name="Carousel-1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/Carousel-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="356" column="18" lean-forward="false" selection-start-line="356" selection-start-column="18" selection-end-line="356" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Big-Image-Right.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Big-Image-Right.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="381" column="18" lean-forward="false" selection-start-line="381" selection-start-column="18" selection-end-line="381" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Big-Image-Left.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Big-Image-Left.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="384" column="8" lean-forward="false" selection-start-line="384" selection-start-column="8" selection-end-line="384" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hero.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/hero.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="742">
-              <caret line="358" column="742" lean-forward="false" selection-start-line="358" selection-start-column="742" selection-end-line="358" selection-end-column="742" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/navigation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="622" column="48" lean-forward="false" selection-start-line="622" selection-start-column="48" selection-end-line="622" selection-end-column="48" />
-              <folding>
-                <element signature="n#style#0;n#passwordboxicon#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#passwordboxicon#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tile-Landscape.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Tile-Landscape.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="425" column="8" lean-forward="false" selection-start-line="425" selection-start-column="8" selection-end-line="425" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tile-Right-Focused.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Tile-Right-Focused.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="423" column="8" lean-forward="false" selection-start-line="423" selection-start-column="8" selection-end-line="423" selection-end-column="8" />
+            <state relative-caret-position="529">
+              <caret line="386" column="42" lean-forward="false" selection-start-line="386" selection-start-column="42" selection-end-line="386" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -153,9 +93,58 @@
       <file leaf-file-name="Tile-50-50-Portrait.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/Tile-50-50-Portrait.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="345" column="0" lean-forward="false" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
+            <state relative-caret-position="403">
+              <caret line="344" column="110" lean-forward="true" selection-start-line="344" selection-start-column="110" selection-end-line="344" selection-end-column="110" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kitchen-light.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/kitchen-light.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Big-Image-Right.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Big-Image-Right.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="326" column="23" lean-forward="false" selection-start-line="326" selection-start-column="23" selection-end-line="326" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Big-Image-Left.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Big-Image-Left.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="326" column="22" lean-forward="false" selection-start-line="326" selection-start-column="22" selection-end-line="326" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Three-Col-Teaser.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Three-Col-Teaser.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="326" column="27" lean-forward="false" selection-start-line="326" selection-start-column="27" selection-end-line="326" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tile-50-50-Landscape.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Tile-50-50-Landscape.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="326" column="8" lean-forward="true" selection-start-line="326" selection-start-column="8" selection-end-line="326" selection-end-column="28" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,6 +169,8 @@
       <find>/blueprint/servlet/en-us/residential-lighting?p13n_test=true&amp;amp;p13n_testcontext=0</find>
       <find>/blueprint/servlet/en-us/products?p13n_test=true&amp;amp;p13n_testcontext=0</find>
       <find>Claim Circle</find>
+      <find>src</find>
+      <find>/blueprint/servlet/resource/image/</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -217,13 +208,23 @@
         <option value="$PROJECT_DIR$/pages/Tile-Landscape.html" />
         <option value="$PROJECT_DIR$/pages/Tile-Right-Focused.html" />
         <option value="$PROJECT_DIR$/pages/Tile-50-50-Portrait.html" />
-        <option value="$PROJECT_DIR$/layout/navigation.html" />
         <option value="$PROJECT_DIR$/layout/hero.html" />
-        <option value="$PROJECT_DIR$/components/Big-Image-Right.html" />
-        <option value="$PROJECT_DIR$/components/Big-Image-Left.html" />
         <option value="$PROJECT_DIR$/layout/footer.html" />
         <option value="$PROJECT_DIR$/layout/search.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/layout/navigation.html" />
+        <option value="$PROJECT_DIR$/components/Big-Image-Left.html" />
+        <option value="$PROJECT_DIR$/components/Big-Image-Right.html" />
+        <option value="$PROJECT_DIR$/components/Carousel-2.html" />
+        <option value="$PROJECT_DIR$/components/Three-Col-News.html" />
+        <option value="$PROJECT_DIR$/components/Three-Col-Teaser.html" />
+        <option value="$PROJECT_DIR$/components/Tile-50-50-Landscape.html" />
+        <option value="$PROJECT_DIR$/components/Tile-50-50-Portrait.html" />
+        <option value="$PROJECT_DIR$/components/Tile-Center-Focused.html" />
+        <option value="$PROJECT_DIR$/components/Tile-Highlighted.html" />
+        <option value="$PROJECT_DIR$/components/Tile-Landscape.html" />
+        <option value="$PROJECT_DIR$/components/Tile-Right-Focused.html" />
+        <option value="$PROJECT_DIR$/components/Carousel-1.html" />
       </list>
     </option>
   </component>
@@ -439,12 +440,12 @@
       <updated>1543333680235</updated>
       <workItem from="1543333683740" duration="878000" />
       <workItem from="1543950157936" duration="6051000" />
-      <workItem from="1550386999570" duration="5498000" />
+      <workItem from="1550386999570" duration="9625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12427000" />
+    <option name="totallyTimeSpent" value="16554000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,7 +458,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -471,7 +471,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25349087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25349087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -702,16 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Claim-Circle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/perficient.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -722,129 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Two-Col-Teaser.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1981">
-          <caret line="328" column="48" lean-forward="false" selection-start-line="328" selection-start-column="48" selection-end-line="328" selection-end-column="48" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Three-Col-Teaser.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="360" column="122" lean-forward="false" selection-start-line="360" selection-start-column="122" selection-end-line="360" selection-end-column="122" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Three-Col-News.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="394" column="359" lean-forward="false" selection-start-line="394" selection-start-column="359" selection-end-line="394" selection-end-column="359" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Carousel-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="411" column="375" lean-forward="false" selection-start-line="411" selection-start-column="375" selection-end-line="411" selection-end-column="375" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Carousel-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3091">
-          <caret line="390" column="375" lean-forward="false" selection-start-line="390" selection-start-column="375" selection-end-line="390" selection-end-column="375" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Tile-50-50-Landscape.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="390" column="18" lean-forward="false" selection-start-line="390" selection-start-column="18" selection-end-line="390" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Tile-Center-Focused.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="435" column="8" lean-forward="false" selection-start-line="435" selection-start-column="8" selection-end-line="435" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Tile-Highlighted.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="340" column="34" lean-forward="false" selection-start-line="340" selection-start-column="34" selection-end-line="340" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Tile-Landscape.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="425" column="8" lean-forward="false" selection-start-line="425" selection-start-column="8" selection-end-line="425" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Tile-Right-Focused.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="423" column="8" lean-forward="false" selection-start-line="423" selection-start-column="8" selection-end-line="423" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Tile-50-50-Portrait.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="345" column="0" lean-forward="false" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="622" column="48" lean-forward="false" selection-start-line="622" selection-start-column="48" selection-end-line="622" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#passwordboxicon#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#passwordboxicon#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layout/hero.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="742">
           <caret line="358" column="742" lean-forward="false" selection-start-line="358" selection-start-column="742" selection-end-line="358" selection-end-column="742" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Big-Image-Right.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="381" column="18" lean-forward="false" selection-start-line="381" selection-start-column="18" selection-end-line="381" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Big-Image-Left.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="384" column="8" lean-forward="false" selection-start-line="384" selection-start-column="8" selection-end-line="384" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -865,9 +736,124 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/layout/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="326" column="18" lean-forward="false" selection-start-line="326" selection-start-column="18" selection-end-line="326" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#passwordboxicon#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#passwordboxicon#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#header#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Claim-Circle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Two-Col-Teaser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="331" column="0" lean-forward="true" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Tile-Right-Focused.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="326" column="26" lean-forward="false" selection-start-line="326" selection-start-column="26" selection-end-line="326" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Tile-Landscape.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="326" column="22" lean-forward="false" selection-start-line="326" selection-start-column="22" selection-end-line="326" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Tile-Center-Focused.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="326" column="27" lean-forward="false" selection-start-line="326" selection-start-column="27" selection-end-line="326" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Tile-Highlighted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="326" column="24" lean-forward="false" selection-start-line="326" selection-start-column="24" selection-end-line="326" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Tile-50-50-Landscape.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="326" column="8" lean-forward="true" selection-start-line="326" selection-start-column="8" selection-end-line="326" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Three-Col-Teaser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="326" column="27" lean-forward="false" selection-start-line="326" selection-start-column="27" selection-end-line="326" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Three-Col-News.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="326" column="25" lean-forward="false" selection-start-line="326" selection-start-column="25" selection-end-line="326" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Carousel-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="326" column="18" lean-forward="false" selection-start-line="326" selection-start-column="18" selection-end-line="326" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Big-Image-Right.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="326" column="23" lean-forward="false" selection-start-line="326" selection-start-column="23" selection-end-line="326" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Big-Image-Left.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="326" column="22" lean-forward="false" selection-start-line="326" selection-start-column="22" selection-end-line="326" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
+        <state relative-caret-position="2982">
           <caret line="226" column="43" lean-forward="false" selection-start-line="226" selection-start-column="43" selection-end-line="226" selection-end-column="43" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -891,6 +877,27 @@
             <element signature="n#ul#2;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#3;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/kitchen-light.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Tile-50-50-Portrait.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="344" column="110" lean-forward="true" selection-start-line="344" selection-start-column="110" selection-end-line="344" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Carousel-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="386" column="42" lean-forward="false" selection-start-line="386" selection-start-column="42" selection-end-line="386" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
